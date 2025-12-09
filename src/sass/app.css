@@ -773,7 +773,7 @@ section {
 }
 @media (max-width: 480px) {
   #couple-intro .family-info .parent-section .address {
-    font-size: 0.5rem;
+    font-size: 0.55rem;
   }
 }
 #couple-intro .couple {
@@ -1024,7 +1024,7 @@ section {
 }
 @media (max-width: 480px) {
   #wedding-info .wedding-details .wedding-time {
-    font-size: 0.55rem;
+    font-size: 0.6rem;
   }
 }
 #wedding-info .wedding-details .wedding-time .hour {
@@ -1149,6 +1149,7 @@ section {
 #wedding-info .wedding-details .wedding-location h3 {
   font-family: "Roboto Slab", sans-serif;
   font-weight: 500;
+  font-size: 2rem;
 }
 @media (max-width: 1024px) {
   #wedding-info .wedding-details .wedding-location h3 {
